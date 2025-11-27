@@ -1,0 +1,23 @@
+{
+    "name": "GeloPortfolio",
+    "short_name": "GeloPortfolio",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#28074a",
+    "theme_color": "#6c1dd0",
+    "description": "Kamogelo's personal portfolio",
+    "icons": [
+      {
+        "src": "icons/image.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/image.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
